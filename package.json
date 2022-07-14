@@ -8,7 +8,7 @@
     "dev": "nodemon server.ts"
   },
   "keywords": [],
-  "author": "lgsfarias",
+  "author": "Guilherme Jankowiak Silva Silva",
   "license": "ISC",
   "devDependencies": {
     "@types/axios": "^0.14.0",
